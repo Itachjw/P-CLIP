@@ -16,7 +16,7 @@ from .icfgpedes import ICFGPEDES
 from .rstpreid import RSTPReid
 from .ufine import UFine6926
 
-__factory = {'CUHK-PEDES': CUHKPEDES, 'ICFG-PEDES': ICFGPEDES, 'RSTPReid': RSTPReid, 'UFine6926': UFine6926}
+__factory = {'CUHK-PEDES': CUHKPEDES, 'ICFG-PEDES': ICFGPEDES, 'RSTPReid': RSTPReid}
 
 
 def read_ulab_image(args, p_uids, ulab_id_path):
