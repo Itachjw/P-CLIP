@@ -52,3 +52,22 @@ python train.py \
 ```python
 python test.py --config_file 'path/to/model_dir/configs.yaml'
 ```
+
+## Citation
+
+If you find this code useful for your research, please cite our paper.
+
+```tex
+@ARTICLE{TIP2026P-CLIP,
+  author={Wang, Chengji and Dong, Ming and Ye, Mang and Sun, Hao and Jiang, Xingpeng},
+  journal={IEEE Transactions on Image Processing}, 
+  title={P-CLIP: Progressive Discrepancy Learning for One-Shot Text-to-Image Person Re-identification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-15}
+  }
+```
+
+## Contact
+If you have any question, please feel free to contact us. E-mail: wcj@ccnu.edu.cn
